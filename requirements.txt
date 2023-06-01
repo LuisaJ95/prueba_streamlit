@@ -1,0 +1,10 @@
+xlrd<2.0
+pandas
+plotly
+streamlit
+datetime
+openpyxl
+Pydeck
+seaborn
+sklearn
+
